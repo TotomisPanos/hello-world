@@ -1,2 +1,3 @@
 # hello-world
-First repo
+
+Hello, my name is Panos Totomis and this is my first Github commit!
